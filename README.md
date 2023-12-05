@@ -23,3 +23,6 @@ Finalmente, se realiza una herramienta que permite de manera automatica monitore
 # Resultados
 
 Mediante los distintos scripts, se logra monitorear el uso del CPU y el de la memoria, asimismo se logran obtener los datos de suma importancia en cuanto a un proceso. 
+
+![image](https://github.com/prichavarria/laboratorio7/assets/144200787/51ecb4a8-2047-4b2f-bacf-5ec124715e1d)
+
