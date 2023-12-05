@@ -100,5 +100,5 @@ if __name__ == '__main__':
     # 2
     # execute_and_monitor_program("process_name", "command")
     # 3
-    asyncio.run(execute_and_monitor_cpu_memory("D:\\programs\\Notepad++\\notepad++.exe"))
+    asyncio.run(execute_and_monitor_cpu_memory("/usr/bin/firefox"))
     #plot_stats(".\\monitor_cpu_memory.csv")
